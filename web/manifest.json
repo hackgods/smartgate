@@ -1,0 +1,23 @@
+{
+    "name": "Smart gate",
+    "short_name": "smartgate",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#E45C50",
+    "theme_color": "#E45C50",
+    "description": "Smart Gate scans vehicles and logs data",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-310.png",
+            "sizes": "310x310",
+            "type": "image/png"
+        }
+    ]
+}

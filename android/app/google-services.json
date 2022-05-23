@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676029158651",
+    "firebase_url": "https://smartgate-hg-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartgate-hg",
+    "storage_bucket": "smartgate-hg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676029158651:android:55436fc4e07e6ea52e0c5e",
+        "android_client_info": {
+          "package_name": "com.hackgod.smartgate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676029158651-rfqt3jbh389d1pqhqpi2fru22a5ojs2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkbV8PfvSJa2FfQx-HA0Czdahg4cYJXqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676029158651-rfqt3jbh389d1pqhqpi2fru22a5ojs2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
